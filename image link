@@ -1,0 +1,21 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="PSPad editor, www.pspad.com">
+  <title>www.Bigweb.sk</title>
+  </head>
+  <body>
+
+<!-- image link  = image1 to image2   --> 
+<span style="color: black font-family: Arial, Helvetica">Testing </span>
+<a href="http://www.bigweb.sk"><img src="https://www.bigweb.sk/image-icons/hobby-white.png" onmouseover="this.src = 'https://www.bigweb.sk/image-icons/hobby-green.png';" onmouseout="this.src = 'https://www.bigweb.sk/image-icons/hobby-white.png';" class=" alignright size-full" width="24" height="24" <a/>
+
+
+
+
+
+
+
+  </body>
+</html>
